@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Hello</title>
+</head>
+<script type="text/javascript">
+    var abcd = ["Hey Hello :)", "Greetings!!"];
+    var a = ["1:  IOT Presentation at 4:OOPM",
+        "2:  Examination Postponed :)",
+        "3:  Pay Utility Bills", "4: It's IOT Project Demo "]
+    var i = 0; j = 0; var stri;
+    function startNotication() {
+        if (i < abcd.length) {
+            document.getElementById('notificationPane').innerHTML = abcd[i];
+            i++;
+        }
+        else {
+            i = 0; stri = '';
+        }
+
+        t = setTimeout(function () { startNotication() }, 3000);
+    }
+    function Notif() {
+
+        if (j < a.length) {
+            document.getElementById('alert').innerHTML = a[j];
+            j++;
+        }
+        else {
+            j = 0; stri = '';
+        }
+
+        t = setTimeout(function () { Notif() }, 3000);
+    }
+
+    function change() {
+        window.document.getElementById('kans').src = window.document.getElementById('kans').src;
+        var demo = window.setTimeout(function () { change() }, 1000);
+    }
+</script>
+<body style="background-color: black">
+    <div class="header" style="width: 100%">
+        <header>
+            <table style="width: 50%; float: left; height: 260px; vertical-align: 20px;">
+                <tr>
+                    <td class="auto-style1">
+                        <iframe src="http://free.timeanddate.com/clock/i566shg2/n415/fn6/fs35/fcfff/tc000/pc000/fti/tt0/tw0/tm1/ts1/tb4" width="256" height="120" style="border: 0px; padding: 0px; text-align: center;"></iframe>
+                    </td>
+
+                    <td class="auto-style2" style="text-align:right;">
+                        <iframe id="kans" src="http://www.weatherfor.us/load.php?unit=metric" style="padding: 0px; border: 0px; width: 750px; height: 350px; scrollbar-base-color: black; text-align: right;"></iframe>
+                    </td>
+                </tr>
+            </table>
+        </header>
+    </div>
+    <br />
+    <div class="abcd" style="width: 100%">
+        <div>
+            <p style="text-rendering: optimizeSpeed; font-size: 40px; color: whitesmoke; text-align: center; font: bold; font-family: 'Century Gothic';" id="notificationPane"></p>
+        </div>
+    </div>
+    <div class="footer" style="padding: 0px; border: 0px;">
+        <footer>
+            <form method="get" action="http://www.bing.com/search" style="background-color: black; text-align: right; height: 45px;">
+                <table style="background-color: black; width: 1100px; height: 45px; text-align: Center;">
+                    <tr>
+                        <td style="color:whitesmoke; font-size:20px; font-family:'Arial'; padding:10px">Notifications :</td>
+                        <td>
+                            <p class="demo" id="alert" style="text-rendering: optimizeSpeed; text-align:left;"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: right;">
+                            <!--<img src="http://www.iroyalcleaners.com/images/binglogo.png" border="0" style="height: 45px; width: 70px;" />-->
+                            <img src="https://cdn1.iconfinder.com/data/icons/black-socicons/512/bing-128.png" border="0" style="height: 45px; width: 70px; background-color: white;" />
+                        </td>
+                        <td>
+                            <input type="text" name="q" style="width: 800px;" />
+                            <input type="submit" value="Try Asking Me!" style="color: white; text-decoration: solid; background-color: black; border: 0px;" />
+                        </td>
+                        <td></td>
+                    </tr>
+                </table>
+            </form>
+        </footer>
+    </div>
+</body>
+
+<script>startNotication()
+    Notif()
+</script>
+</html>
+<style type="text/css">
+    .abcd {
+        width: 100%;
+        height: 116px;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        text-align: center;
+    }
+
+    body {
+        margin: 0 0 20px;
+    }
+
+    .footer {
+        position: absolute;
+        bottom: 90px;
+        height: 20px;
+        background: #f0f0f0;
+        width: 100%;
+    }
+
+    .header {
+        position: absolute;
+        top: 0px;
+        height: 270px;
+        background: black;
+        width: 100%;
+    }
+
+    .tabBlock {
+        background-color: #57574f;
+        border: solid 0px #FFA54F;
+        border-radius: 5px;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        max-width: 200px;
+        width: 100%;
+        overflow: hidden;
+        display: block;
+    }
+
+    .clock {
+        vertical-align: middle;
+        font-family: Orbitron;
+        font-size: 40px;
+        font-weight: normal;
+        color: #FFF;
+        padding: 0 10px;
+    }
+
+    .clocklg {
+        vertical-align: middle;
+        font-family: Orbitron;
+        font-size: 20px;
+        font-weight: normal;
+        color: #FFF;
+    }
+
+    .auto-style1 {
+        height: 222px;
+    }
+
+    .auto-style2 {
+        width: 50%;
+        float: right;
+        height: 222px;
+    }
+
+    .demo {
+        text-rendering: optimizeSpeed;
+        font-size: 20px;
+        color: whitesmoke;
+        text-align: center;
+        font: bold;
+        font-family: 'Arial';
+        text-align: right;
+    }
+</style>
+

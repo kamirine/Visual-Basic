@@ -1,0 +1,4 @@
+﻿Bvotes 1
+Fvotes 0
+Evotes 1
+Pvotes 0

@@ -1,0 +1,61 @@
+C:\Users\Temi\AppData\Local\Temporary Projects\CricketShopZone\bin\Debug\CricketShopZone.exe.config
+C:\Users\Temi\Documents\Visual Studio 2012\Projects\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe.config
+C:\Users\Temi\Documents\Visual Studio 2012\Projects\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Form1.resources
+C:\Users\Temi\Documents\Visual Studio 2012\Projects\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Resources.resources
+C:\Users\Temi\Documents\Visual Studio 2012\Projects\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.vbproj.GenerateResource.Cache
+C:\Users\Temi\Documents\Visual Studio 2012\Projects\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe
+C:\Users\Temi\Documents\Visual Studio 2012\Projects\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.pdb
+C:\Users\Temi\Documents\Visual Studio 2012\Projects\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.xml
+C:\Users\Temi\Documents\Visual Studio 2012\Projects\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.exe
+C:\Users\Temi\Documents\Visual Studio 2012\Projects\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.xml
+C:\Users\Temi\Documents\Visual Studio 2012\Projects\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.pdb
+C:\Users\QMC\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe.config
+C:\Users\QMC\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.exe
+C:\Users\QMC\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.xml
+C:\Users\QMC\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.pdb
+C:\Users\QMC\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe
+C:\Users\QMC\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.pdb
+C:\Users\QMC\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.xml
+C:\Users\QMC\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Form1.resources
+C:\Users\QMC\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Resources.resources
+C:\Users\QMC\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.vbproj.GenerateResource.Cache
+C:\Users\Temi\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe.config
+C:\Users\Temi\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.exe
+C:\Users\Temi\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.xml
+C:\Users\Temi\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.pdb
+C:\Users\Temi\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe
+C:\Users\Temi\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.pdb
+C:\Users\Temi\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.xml
+C:\Users\Temi\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Form1.resources
+C:\Users\Temi\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Resources.resources
+C:\Users\Temi\Desktop\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.vbproj.GenerateResource.Cache
+H:\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe.config
+H:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.exe
+H:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.xml
+H:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.pdb
+H:\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe
+H:\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.pdb
+H:\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.xml
+H:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Form1.resources
+H:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Resources.resources
+H:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.vbproj.GenerateResource.Cache
+G:\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe.config
+G:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.exe
+G:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.xml
+G:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.pdb
+G:\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe
+G:\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.pdb
+G:\CricketShopZone-2\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.xml
+G:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Form1.resources
+G:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Resources.resources
+G:\CricketShopZone-2\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.vbproj.GenerateResource.Cache
+C:\Users\Srinivasaya.Srinivasaya-PC\Desktop\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe.config
+C:\Users\Srinivasaya.Srinivasaya-PC\Desktop\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.exe
+C:\Users\Srinivasaya.Srinivasaya-PC\Desktop\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.xml
+C:\Users\Srinivasaya.Srinivasaya-PC\Desktop\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.pdb
+C:\Users\Srinivasaya.Srinivasaya-PC\Desktop\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.exe
+C:\Users\Srinivasaya.Srinivasaya-PC\Desktop\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.pdb
+C:\Users\Srinivasaya.Srinivasaya-PC\Desktop\CricketShopZone\CricketShopZone\bin\Debug\CricketShopZone.xml
+C:\Users\Srinivasaya.Srinivasaya-PC\Desktop\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Form1.resources
+C:\Users\Srinivasaya.Srinivasaya-PC\Desktop\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.Resources.resources
+C:\Users\Srinivasaya.Srinivasaya-PC\Desktop\CricketShopZone\CricketShopZone\obj\Debug\CricketShopZone.vbproj.GenerateResource.Cache
